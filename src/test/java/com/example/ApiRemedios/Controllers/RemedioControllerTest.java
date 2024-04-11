@@ -26,6 +26,7 @@ class RemedioControllerTest {
     void excluir() {
     }
 
+
     @Test
     void inativar() {
     }
