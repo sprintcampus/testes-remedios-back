@@ -37,6 +37,8 @@ class RemedioTest {
         verify(remedio).inativar();
     }
 
+
+
     @Test
     void reativar() {
         remedio.inativar();
