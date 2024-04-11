@@ -1,4 +1,4 @@
-package com.example.ApiRemedios.Remedio.Services;
+package com.example.ApiRemedios;
 
 import com.example.ApiRemedios.Remedio.DTO.DadosAtualizarRemedio;
 import com.example.ApiRemedios.Remedio.DTO.DadosCadastroRemedio;
@@ -6,6 +6,7 @@ import com.example.ApiRemedios.Remedio.DTO.DadosDetalhamentoRemedio;
 import com.example.ApiRemedios.Remedio.DTO.DadosListagemRemedios;
 import com.example.ApiRemedios.Remedio.Entities.Remedio;
 import com.example.ApiRemedios.Remedio.Repository.RemediosRepository;
+import com.example.ApiRemedios.Remedio.Services.ServicesRemedio;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.http.ResponseEntity;

@@ -1,6 +1,8 @@
-package com.example.ApiRemedios.Remedio.Entities;
+package com.example.ApiRemedios;
 
 import com.example.ApiRemedios.Remedio.DTO.DadosAtualizarRemedio;
+import com.example.ApiRemedios.Remedio.Entities.Laboratorio;
+import com.example.ApiRemedios.Remedio.Entities.Remedio;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
